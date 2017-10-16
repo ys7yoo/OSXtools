@@ -29,7 +29,7 @@ https://www.chachatelier.fr/latexit/
 You can quickly write neat equations for presentations!
 
 
-## Development tools
+## Development
 
 
 ### MacPort
