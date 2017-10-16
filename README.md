@@ -6,7 +6,8 @@ Tips for setting up OSX environment with useful softwares. (Most of them are fre
 ### Spark
 https://sparkmailapp.com
 
-My favorite.
+My favorite e-mail app.
+I like it because I can use the same app on my iPhone and iPad!
 
 
 
