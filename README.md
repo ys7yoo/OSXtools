@@ -36,7 +36,7 @@ You can quickly write neat equations for presentations!
 ### MacPort
 https://www.macports.org
 
-To install open-source softwares!
+An essential tool to install open-source softwares!
 
 ### Fetch (not free)
 https://fetchsoftworks.com
