@@ -38,6 +38,11 @@ https://www.macports.org
 
 An essential tool to install open-source softwares!
 
+### Etcher
+https://etcher.io
+
+To burn an image (e.g. Raspbian) to SD card.
+
 ### Fetch (not free)
 https://fetchsoftworks.com
 
